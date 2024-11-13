@@ -1,0 +1,38 @@
+body{
+    background-color: #222531;
+}
+.box{
+    text-align: center;
+    margin-top: 100px;
+    color:#e3b9a2;
+}
+.box h1{
+    font-family: "Sour Gummy", sans-serif;
+    font-size: 70px;
+}
+.box p{
+    font-family: "Funnel Sans", sans-serif;
+    font-size: 20px;
+    padding-bottom: 20px;
+}
+.box button{
+    font-family: "Funnel Sans", sans-serif;
+    font-size: 16px;
+    width: 170px;
+    height: 60px;
+    background-color:#e3b9a2;
+    color: white;
+    border-radius: 7%;
+    border: #e3b9a2 ;
+}
+.box button:hover{
+    background-color:#e3b9a200;
+    border: #e3b9a2 3px solid;
+}
+#quote{
+    color: aliceblue;
+    padding-top:20px;
+}
+#author{
+    color: aliceblue;
+}
